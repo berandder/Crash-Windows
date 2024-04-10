@@ -1,0 +1,12 @@
+do
+msgbox"Hello!",vbOKOnly,"Hello!"
+msgbox"Hello!",vbOKCancel,"Hello!"
+msgbox"Hello!",vbAbortRetryIgnore,"Hello!"
+msgbox"Hello!",vbYesNoCancel,"Hello!"
+msgbox"Hello!",vbYesNo,"Hello!"
+msgbox"Hello!",vbRetryCancel,"Hello!"
+msgbox"Hello!",vbCritical,"Hello!"
+msgbox"Hello!",vbExclamation,"Hello!"
+msgbox"Hello!",vbInformation,"Hello!"
+msgbox"Hello!",vbQuestion,"Hello!"
+loop
